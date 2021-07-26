@@ -1,0 +1,46 @@
+@LEV2K5 12 8
+
+background: /Users/boersma/Documents/Developer/XSquare/data/level2.png
+
+tiles: /Users/boersma/Documents/Developer/XSquare/data/tiles.png 25 25
+
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 10 11 -1 10 11 -1 10 11 -1 10 11
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1 10 11 -1 10 11 -1 10 11 -1 -1
+	-1 -1 -1 -1 -1 -1 -1 21 -1 -1 -1 -1
+        -1 -1 -1 -1 -1 -1 -1 20 -1 -1 -1 -1
+	-1 17 18 19 18 17 16 18 19 17 16 19
+
+sprites: 1
+
+	 /Users/boersma/Documents/Developer/XSquare/data/coins.png 25 25 2
+
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1  0 -1  0  0 -1  0  0 -1  0  0
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+	-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+
+
+players: 1
+
+	 /Users/boersma/Documents/Developer/XSquare/data/player.png 25 34 2 1 1
+
+sounds: 9
+
+	/Users/boersma/Documents/Developer/XSquare/ata/sound7.raw
+	/Users/boersma/Documents/Developer/XSquare/sound6.raw
+	/Users/boersma/Documents/Developer/XSquare/data/sound5.raw
+	/Users/boersma/Documents/Developer/XSquare/data/sound4.raw
+	/Users/boersma/Documents/Developer/XSquare/data/sound3.raw
+	/Users/boersma/Documents/Developer/XSquare/data/sound2.raw
+	/Users/boersma/Documents/Developer/XSquare/data/sound1.raw
+	/Users/boersma/Documents/Developer/XSquare/data/sound.raw
+	/Users/boersma/Documents/Developer/XSquare/data/sound8.raw
+
+
