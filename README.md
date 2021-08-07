@@ -4,6 +4,8 @@
 
 `XSquare` will run on `Linux` and `MacOS`, where the former requires `OSS` support for sound, and the latter the [XQuartz](https://www.xquartz.org) X11 window manager installed.
 
+![XSquare in Action](XSquare.png "XSquare in Action")
+
 ## Usage
 
 `XSquare` program is compiled with:
