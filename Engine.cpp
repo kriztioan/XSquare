@@ -368,7 +368,7 @@ void Engine::drawInfo() {
     while (i /= 10)
       score_len++;
     score = new char[score_len + 1];
-    sprintf(score, "%s %u", player->name, player->score);
+    snprintf(score, score_len + 1, "%s %u", player->name, player->score);
     Levels::engine->interface->drawVideoString(
         score_len, score, Levels::engine->interface->xvisible + 10,
         Levels::engine->interface->yvisible + 11);
